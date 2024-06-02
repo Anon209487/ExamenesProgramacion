@@ -1,7 +1,0 @@
-nombre;dirección;teléfono;baja
-JUAN;CALLE FALSA 27;777777777;NO
-Macarena Gómez Domínguez;Calle Satsuma nº 32;698523654;NO
-Marcos Fernández Bravo;Calle Niebla nº 65;621456987;NO
-María Martínez García;Calle Amor nº 10;652369874;NO
-Paco Pérez Ramírez;Calle Inventada nº 5;666666666;NO
-XAVIER;CALLE 13;666666666;NO
